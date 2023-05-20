@@ -1,6 +1,6 @@
 @echo off
 
-set GT7_PLAYSTATION_IP=<2.211.127.75>
+set GT7_PLAYSTATION_IP=<192.168.178.27>
 
 pip3 install -r requirements.txt
 
